@@ -1,5 +1,5 @@
 {
-    "name": "dk/module-testimonials",
+    "name": "dk/testimonials",
     "type": "magento2-module",
     "require": {
         "magento/framework": "*"
